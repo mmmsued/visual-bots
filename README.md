@@ -7,6 +7,8 @@ This is a fork of the mod »[vbot](https://github.com/nyje/visual-bots)« from N
 
 There is now an optional dependency on the mod »[mesecons](https://content.minetest.net/packages/Jeija/mesecons/)«. This means, that the vbot can also be started with mesecon switches.
 
+
+
 --------------------------------------------
 # visual-bots
 ## A minetest programmable bot 
